@@ -1,4 +1,4 @@
-# %% [markdown]
+
 # # 1. Python Fundamentals (Day 1)
 # [All code will be shared in the github page](https://github.com/hafez-ahmad/Python-Data-Analysis-Visualization-Training)
 # 
