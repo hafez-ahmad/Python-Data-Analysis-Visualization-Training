@@ -7,8 +7,8 @@ This repository contains all the associated files for the Python Data Analysis &
 1. **Day 1**: Python installation, basic syntax, and controls.
 2. **Day 2**: Python Basic to Advanced Functions and Libraries.
 3. **Day 3**: Numpy and Pandas.
-4. **Day 4**: Data cleaning and wrangling.
-5. **Day 5**: Data visualization.
+4. **Day 4**: Data cleaning, wrangling and Satellite data with Python.
+5. **Day 5**: Data visualization with Matplotlib,Seaborn and Statistical hypothesis testing.
 
 ## Resources
 For additional learning, you can refer to the following free Python resources: [Free Python Resources](https://github.com/pamoroso/free-python-books?tab=readme-ov-file)
